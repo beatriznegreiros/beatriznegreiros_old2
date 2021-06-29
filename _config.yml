@@ -92,11 +92,11 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Water Resources" # Site name or title, also used in jekyll-seo-tag
+title: "Beatriz Negreiros" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://negreiros.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/negreiros"
+url: "https://beatriz-negreiros.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "/beatriz-negreiros"
 repo: "https://github.com/beatriznegreiros/negreiros.git"
 email: "beatriznegreiros@outlook.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
