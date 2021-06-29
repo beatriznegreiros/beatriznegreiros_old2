@@ -122,24 +122,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+- title: Research
+  url: /research/
+- title: Teaching
+  url: /teaching/
+
 
 navigation_footer:
 - title: Created by Beatriz Negreiros
   url: https://www.iws.uni-stuttgart.de/institut/team/Negreiros/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  LinkedIn: https://www.linkedin.com/in/beatriz-negreiros/
+  GitHub: https://github.com/beatriznegreiros
+  link: https://beatriznegreiros.github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
