@@ -1,19 +1,17 @@
 ---
 title: Research
-feature_text: Research
+feature_text: 
+# Hydro-morphodynamics
 feature_image: "/assets/kb5.JPG"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
+youtubeId: 9Lz3adM1Dz4
 ---
 
 
 > Riverbed Restoration
 
-{% include video.html id="9Lz3adM1Dz4" title="Riverbed restoration" %}
-
-``` html
-{% raw %}{% include video.html id="9Lz3adM1Dz4" title="Riverbed restoration" %}{% endraw %}
-```
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 
