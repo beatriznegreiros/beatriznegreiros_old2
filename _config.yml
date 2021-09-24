@@ -94,7 +94,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Beatriz Negreiros" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo_susuperresize.png" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Model validation | River restoration | Geospatial analyses | Machine Learning " # Site description and default description, also used in jekyll-seo-tag
 url: "https://beatriznegreiros.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/beatriznegreiros/beatriznegreiros.github.io"
 email: "beatriznegreiros@outlook.com"
@@ -123,8 +123,6 @@ navigation_header:
   url: /
 - title: Research
   url: /research/
-- title: Teaching
-  url: /teaching/
 - title: Institutional
   url: https://www.iws.uni-stuttgart.de/institut/team/Negreiros/
 
