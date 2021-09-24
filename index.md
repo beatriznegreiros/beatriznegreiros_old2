@@ -13,22 +13,10 @@ Civil engineer graduated from the [Federal University of Rio Grande do Norte](ht
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/beatriznegreiros" color="#0366d6" %}  {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/beatriz-negreiros/" color="#0d94e7" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/beatriznegreiros/?hl=pt" color="#ffffff" %} 
 
-## Academic background
-- BEng. Civil Engineering (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
-
-- MSc. Water Resources Engineering and Management (Universität Stuttgart - Germany)
-
-
-## Specialisation fields
-Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Management 
 
 
 ## Languages
 Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge)
-
-
-## Python codes
-&nbsp; Visit [fuzzycorr](https://beatriznegreiros.github.io/fuzzycorr/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
 
 
 ### See more

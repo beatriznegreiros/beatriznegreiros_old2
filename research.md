@@ -1,7 +1,7 @@
 ---
 title: Research
-feature_text: 
-# Hydro-morphodynamics
+feature_text: |
+	# Hydro-morphodynamics
 feature_image: "/assets/kb5.JPG"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
