@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## Beatriz Negreiros
   Research Associate | University of Stuttgart
-feature_image: "/uploads/Ering.jpg"
+feature_image: "/assets/Ering.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 youtubeId: 70wzyP3tzOA
 ---
