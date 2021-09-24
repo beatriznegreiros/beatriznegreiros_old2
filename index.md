@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## Beatriz Negreiros
   Research Associate | University of Stuttgart
-feature_image: "/assets/Ering.jpg"
+feature_image: "/assets/kb5.JPG"
 excerpt: "Research "
 youtubeId: 70wzyP3tzOA
 ---
