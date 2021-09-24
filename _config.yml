@@ -130,13 +130,12 @@ navigation_header:
 
 
 navigation_footer:
-- title: Alembic Theme
-  url: https://alembic.darn.es/
+- title: Powered with Jekyll
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/beatriz-negreiros/
   GitHub: https://github.com/beatriznegreiros
-  link: https://beatriznegreiros.github.io
+  link: https://beatriznegreiros.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
