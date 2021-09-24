@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Beatriz Negreiros" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo_susuperresize.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo_bn.png" # Site logo, also used in jekyll-seo-tag
 description: "Model validation | River restoration | Geospatial analyses | Machine Learning " # Site description and default description, also used in jekyll-seo-tag
 url: "https://beatriznegreiros.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/beatriznegreiros/beatriznegreiros.github.io"
@@ -108,8 +108,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
+  16: '/assets/logos/logo_bn_16'
+  32: '/assets/logos/logo_bn_32'
   96: '/assets/logos/logo@96px.png'
   120: '/assets/logos/logo@120px.png'
   144: '/assets/logos/logo@144px.png'
