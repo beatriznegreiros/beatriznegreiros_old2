@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Beatriz Negreiros" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo_bn.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo_bn_.png" # Site logo, also used in jekyll-seo-tag
 description: "Model validation | River restoration | Geospatial analyses | Machine Learning " # Site description and default description, also used in jekyll-seo-tag
 url: "https://beatriznegreiros.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/beatriznegreiros/beatriznegreiros.github.io"
