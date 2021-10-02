@@ -1,5 +1,6 @@
 ---
 excerpt: "A demo of Markdown and HTML includes"
+feature_image: "/assets/inn_webseite.PNG"
 aside: true
 youtubeId: 9Lz3adM1Dz4
 ---
