@@ -6,7 +6,6 @@ youtubeId: 9Lz3adM1Dz4
 ---
 
 
-> Riverbed Restoration
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -14,14 +13,13 @@ youtubeId: 9Lz3adM1Dz4
 
 ## Open Master/Bachelor Theses
 ### Open Theses
-- [Psychologie der Präzision: Subjektive Korrelation morphodynamischen Wandels](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BA_was_ist_was_map_comparison_20200703_fin.pdf) (*Cognitive precision: Subjective correlation of morphodynamic change*).
 - [Ecohydraulics: Colmation analysis across scales](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/2021_MA_Colmation-update.pdf)
 - [The effect of an artificial flood on a river bed – A multi-parameter analysis](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/20210507_MA_Multi-parameter_analysis_sh.pdf)
 - [Spatial analysis of riverbed clogging with fuzzy map comparisons](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BA_MA_RiverbedClogging_FuzzyMapComparison.pdf)
 
-## Theses under Supervision
+### Theses under Supervision
 - [Smart analysis of fluvial ecosystems with airborne lidar data and machine learning](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/MA_lidar_analysis_20201019_fin.pdf).
-
+- [Psychologie der Präzision: Subjektive Korrelation morphodynamischen Wandels](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BA_was_ist_was_map_comparison_20200703_fin.pdf) (*Cognitive precision: Subjective correlation of morphodynamic change*).
 
 
 ## Projects
