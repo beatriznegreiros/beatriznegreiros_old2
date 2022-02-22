@@ -123,11 +123,12 @@ navigation_header:
   url: /
 - title: Research
   url: /research/
-- title: fuzzycorr
-  url: https://beatriznegreiros.github.io/fuzzycorr/
 - title: Institutional
   url: https://www.iws.uni-stuttgart.de/institut/team/Negreiros/
-
+- title: fuzzycorr
+  url: https://beatriznegreiros.github.io/fuzzycorr/
+- title: sediment analyst
+  url: https://sedimentanalyst.herokuapp.com/
 
 navigation_footer:
 - title: Powered with Jekyll
